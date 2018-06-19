@@ -1,0 +1,26 @@
+{
+  "name": "calendar1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "immutability-helper": "^2.6.4",
+    "moment": "^2.20.1",
+    "node-wolfram": "0.0.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-form-with-constraints": "^0.7.0",
+    "react-scripts": "1.1.0",
+    "react-validation": "^3.0.7",
+    "wolfram-alpha": "^0.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "flow": "flow"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.67.1"
+  }
+}
